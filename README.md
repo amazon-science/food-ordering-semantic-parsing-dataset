@@ -219,11 +219,22 @@ This library is licensed under the CC-BY-NC-4.0 License.
 If you use this dataset, please cite the following paper:
 
 ```bibtex
-@article{rubino2022crosstop,
-  title={Cross-TOP: Zero-Shot Cross-Schema Task-Oriented Parsing},
-  author={Rubino, Melanie and Guenon des Mesnards, Nicolas and Shah, Uday and Jiang, Nanjiang and Sun, Weiqi and Arkoudas, Konstantine},
-  journal={arXiv preprint arXiv:2206.05352},
-  year={2022}
+@inproceedings{a-rubino-etal-2022-cross,
+    title = "Cross-{TOP}: Zero-Shot Cross-Schema Task-Oriented Parsing",
+    author = "A. Rubino, Melanie  and
+      Guenon des mesnards, Nicolas  and
+      Shah, Uday  and
+      Jiang, Nanjiang  and
+      Sun, Weiqi  and
+      Arkoudas, Konstantine",
+    booktitle = "Proceedings of the Third Workshop on Deep Learning for Low-Resource Natural Language Processing",
+    month = jul,
+    year = "2022",
+    address = "Hybrid",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.deeplo-1.6",
+    pages = "48--60",
+    abstract = "t",
 }
 ```
 
