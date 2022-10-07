@@ -238,3 +238,17 @@ If you use this dataset, please cite the following paper:
 }
 ```
 
+and the original PIZZA dataset this work is derived from (see https://github.com/amazon-research/pizza-semantic-parsing-dataset):
+```
+@misc{pizzaDataset,
+	author = {Konstantine Arkoudas and 
+	Nicolas Guenon des Mesnards and 
+	Melanie Rubino and 
+	Sandesh Swamy  and
+	Saarthak Khanna and
+	Weiqi Sun},
+	title = {Pizza: a task-oriented semantic parsing dataset},
+	url = {https://github.com/amazon-research/pizza-semantic-parsing-dataset},
+	year = {2021}
+}
+```
